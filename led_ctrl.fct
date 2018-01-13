@@ -1,0 +1,5 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"led_ctrl.c" LINE:151
+usart_rx_isr DSTACK_USAGE:14 DSTACK_LEVEL:14 FILE:"led_ctrl.c" LINE:54
+printf DSTACK_USAGE:10 DSTACK_LEVEL:24 FILE:"C:\Program Files\cvavr2-2\lib\stdio.lib" LINE:1476
+_print DSTACK_USAGE:20 DSTACK_LEVEL:44 FILE:"C:\Program Files\cvavr2-2\lib\stdio.lib" LINE:503
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:46 FILE:"C:\Program Files\cvavr2-2\lib\string.lib" LINE:1706
